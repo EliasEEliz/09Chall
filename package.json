@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "8.2.4",
+  "description": "challenge 09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EliasEliz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasEEliz/09Chall.git"
+  },
+  "keywords": [
+    "Challenge"
+  ],
+  "bugs": {
+    "url": "https://github.com/EliasEEliz/09Chall/issues"
+  },
+  "homepage": "https://github.com/EliasEEliz/09Chall#readme"
+}
